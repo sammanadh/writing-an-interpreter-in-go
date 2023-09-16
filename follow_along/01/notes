@@ -1,0 +1,3 @@
+before evaludating source code: Source Code -> Tokens -> Abstract Syntax Tree
+
+Source Code ->  Tokens is called "lexical analysis" or "lexing"
